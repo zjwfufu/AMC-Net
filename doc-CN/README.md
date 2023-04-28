@@ -8,7 +8,7 @@
 
 西安电子科技大学
 
-[[论文](https://arxiv.org/abs/2304.00445)] | [[中文文档](doc-CN/README.md)] | [[代码](https://github.com/zjwXDU/AMC-Net)]
+[[论文](https://arxiv.org/abs/2304.00445)] | [[中文文档](doc-CN/README.md)] | [[代码](https://github.com/zjwXDU/AMC-Net)] | [[海报](assets/poster.pdf)] | [[视频](assets/video.mp4)]
 
 ![](../assets/arch.png)
 
