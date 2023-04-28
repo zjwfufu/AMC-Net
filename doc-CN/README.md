@@ -1,4 +1,4 @@
-# AMC-N
+# AMC-Net
 
 **为响应[开放共享科研记录行动倡议(DCOX)](https://mmcheng.net/docx/)，本工作将提供中文文档，为华人学者科研提供便利。**
 
