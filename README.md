@@ -6,7 +6,7 @@ Jiawei Zhang, Tiantian Wang, [ZhixiFeng](https://faculty.xidian.edu.cn/FZX/zh_CN
 
 Xidian University
 
-[[Paper](https://arxiv.org/abs/2304.00445)] | [[中文文档](doc-CN/README.md)] | [[code](https://github.com/zjwXDU/AMC-Net)]
+[[Paper](https://arxiv.org/abs/2304.00445)] | [[中文文档](doc-CN/README.md)] | [[code](https://github.com/zjwXDU/AMC-Net)] | [[poster](assets/poster.pdf)] | [[video](assets/video.mp4)]
 
 ![](./assets/arch.png)
 
