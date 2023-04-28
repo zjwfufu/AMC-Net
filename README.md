@@ -1,4 +1,4 @@
-# AWN
+# AMC-Net
 
 Code for "AMC-Net: An Effective Network for Automatic Modulation Classification".
 
